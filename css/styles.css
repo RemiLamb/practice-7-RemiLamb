@@ -124,3 +124,14 @@ h3 {
     font-weight: 600;
     text-decoration: none;
 }
+
+.studio {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.studio img {
+    width: 100%;
+    height: auto;
+}
